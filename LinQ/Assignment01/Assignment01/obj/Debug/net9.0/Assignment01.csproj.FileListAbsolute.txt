@@ -1,0 +1,14 @@
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\bin\Debug\net9.0\Assignment01.exe
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\bin\Debug\net9.0\Assignment01.deps.json
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\bin\Debug\net9.0\Assignment01.runtimeconfig.json
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\bin\Debug\net9.0\Assignment01.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\bin\Debug\net9.0\Assignment01.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.AssemblyInfoInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.AssemblyInfo.cs
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.csproj.CoreCompileInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\refint\Assignment01.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\Assignment01.genruntimeconfig.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\LinQ\Session 01\Assignment01\Assignment01\obj\Debug\net9.0\ref\Assignment01.dll
