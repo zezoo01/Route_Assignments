@@ -1,0 +1,14 @@
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\bin\Debug\net9.0\Assignment05.exe
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\bin\Debug\net9.0\Assignment05.deps.json
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\bin\Debug\net9.0\Assignment05.runtimeconfig.json
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\bin\Debug\net9.0\Assignment05.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\bin\Debug\net9.0\Assignment05.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.AssemblyInfoInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.AssemblyInfo.cs
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.csproj.CoreCompileInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\refint\Assignment05.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\Assignment05.genruntimeconfig.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\OOP\Session 05\Assignment05\Assignment05\obj\Debug\net9.0\ref\Assignment05.dll

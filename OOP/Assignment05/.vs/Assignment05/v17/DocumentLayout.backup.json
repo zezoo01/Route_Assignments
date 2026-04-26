@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\seatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\seatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\standardticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\standardticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\vipticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\vipticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\imaxticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\imaxticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|e:\\full stack .net\\route\\mohamed gamal\\oop\\session 05\\assignment05\\assignment05\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D945C0-0D67-41C7-A2C8-A3A9F43FD040}|Assignment05\\Assignment05.csproj|solutionrelative:assignment05\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatLocation.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\SeatLocation.cs",
+              "RelativeDocumentMoniker": "Assignment05\\SeatLocation.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\SeatLocation.cs",
+              "RelativeToolTip": "Assignment05\\SeatLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:55:35.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Assignment05\\IPrintable.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IPrintable.cs",
+              "RelativeToolTip": "Assignment05\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:55:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookable.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IBookable.cs",
+              "RelativeDocumentMoniker": "Assignment05\\IBookable.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IBookable.cs",
+              "RelativeToolTip": "Assignment05\\IBookable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:54:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Ticket.cs",
+              "RelativeDocumentMoniker": "Assignment05\\Ticket.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Ticket.cs",
+              "RelativeToolTip": "Assignment05\\Ticket.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandardTicket.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\StandardTicket.cs",
+              "RelativeDocumentMoniker": "Assignment05\\StandardTicket.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\StandardTicket.cs",
+              "RelativeToolTip": "Assignment05\\StandardTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:34.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VIPTicket.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\VIPTicket.cs",
+              "RelativeDocumentMoniker": "Assignment05\\VIPTicket.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\VIPTicket.cs",
+              "RelativeToolTip": "Assignment05\\VIPTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMAXTicket.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IMAXTicket.cs",
+              "RelativeDocumentMoniker": "Assignment05\\IMAXTicket.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\IMAXTicket.cs",
+              "RelativeToolTip": "Assignment05\\IMAXTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Projector.cs",
+              "RelativeDocumentMoniker": "Assignment05\\Projector.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Projector.cs",
+              "RelativeToolTip": "Assignment05\\Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingHelper.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\BookingHelper.cs",
+              "RelativeDocumentMoniker": "Assignment05\\BookingHelper.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\BookingHelper.cs",
+              "RelativeToolTip": "Assignment05\\BookingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:53:03.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Cinema.cs",
+              "RelativeDocumentMoniker": "Assignment05\\Cinema.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Cinema.cs",
+              "RelativeToolTip": "Assignment05\\Cinema.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:52:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment05\\Program.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\OOP\\Session 05\\Assignment05\\Assignment05\\Program.cs",
+              "RelativeToolTip": "Assignment05\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:51:15.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
