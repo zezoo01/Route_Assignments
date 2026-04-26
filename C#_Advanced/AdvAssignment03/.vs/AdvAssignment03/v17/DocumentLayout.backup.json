@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise1_studentgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise1_studentgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise2_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise2_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise3_phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise3_phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise4_uniqueemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise4_uniqueemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise5_printqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise5_printqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|e:\\full stack .net\\route\\mohamed gamal\\c# adv\\session 03\\advassignment03\\advassignment03\\exercise6_browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBFA4A1-551B-4087-8E0C-B24F26AAF86D}|AdvAssignment03\\AdvAssignment03.csproj|solutionrelative:advassignment03\\exercise6_browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\files\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise1_StudentGradeManager.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise1_StudentGradeManager.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise1_StudentGradeManager.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise1_StudentGradeManager.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise1_StudentGradeManager.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:34:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise2_Leaderboard.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise2_Leaderboard.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise2_Leaderboard.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise2_Leaderboard.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise2_Leaderboard.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:34:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise3_PhoneBook.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise3_PhoneBook.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise3_PhoneBook.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise3_PhoneBook.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise3_PhoneBook.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise4_UniqueEmailValidator.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise4_UniqueEmailValidator.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise4_UniqueEmailValidator.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise4_UniqueEmailValidator.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise4_UniqueEmailValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:39.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise5_PrintQueue.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise5_PrintQueue.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise5_PrintQueue.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise5_PrintQueue.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise5_PrintQueue.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise6_BrowserHistory.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise6_BrowserHistory.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Exercise6_BrowserHistory.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Exercise6_BrowserHistory.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Exercise6_BrowserHistory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\files\\Program.cs",
+              "RelativeDocumentMoniker": "..\\files\\Program.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\files\\Program.cs",
+              "RelativeToolTip": "..\\files\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:32:39.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Program.cs",
+              "RelativeDocumentMoniker": "AdvAssignment03\\Program.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Mohamed Gamal\\C# ADV\\Session 03\\AdvAssignment03\\AdvAssignment03\\Program.cs*",
+              "RelativeToolTip": "AdvAssignment03\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:31:50.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

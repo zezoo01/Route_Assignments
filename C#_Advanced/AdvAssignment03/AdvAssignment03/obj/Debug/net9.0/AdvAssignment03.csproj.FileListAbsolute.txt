@@ -1,0 +1,14 @@
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\bin\Debug\net9.0\AdvAssignment03.exe
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\bin\Debug\net9.0\AdvAssignment03.deps.json
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\bin\Debug\net9.0\AdvAssignment03.runtimeconfig.json
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\bin\Debug\net9.0\AdvAssignment03.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\bin\Debug\net9.0\AdvAssignment03.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.AssemblyInfoInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.AssemblyInfo.cs
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.csproj.CoreCompileInputs.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\refint\AdvAssignment03.dll
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.pdb
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\AdvAssignment03.genruntimeconfig.cache
+E:\Full Stack .Net\Route\Mohamed Gamal\C# ADV\Session 03\AdvAssignment03\AdvAssignment03\obj\Debug\net9.0\ref\AdvAssignment03.dll
