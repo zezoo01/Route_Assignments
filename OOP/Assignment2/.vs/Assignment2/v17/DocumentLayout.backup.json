@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|e:\\full stack .net\\route\\abdelrahman mohemmed\\oop\\session02\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|e:\\full stack .net\\route\\abdelrahman mohemmed\\oop\\session02\\assignment2\\assignment2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|e:\\full stack .net\\route\\abdelrahman mohemmed\\oop\\session02\\assignment2\\assignment2\\seatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\seatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|e:\\full stack .net\\route\\abdelrahman mohemmed\\oop\\session02\\assignment2\\assignment2\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|e:\\full stack .net\\route\\abdelrahman mohemmed\\oop\\session02\\assignment2\\assignment2\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE19406-A1D3-46AD-8155-8995517A18BD}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingHelper.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\BookingHelper.cs",
+              "RelativeDocumentMoniker": "Assignment2\\BookingHelper.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\BookingHelper.cs",
+              "RelativeToolTip": "Assignment2\\BookingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:32:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Cinema.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Cinema.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Cinema.cs",
+              "RelativeToolTip": "Assignment2\\Cinema.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:32:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeatLocation.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\SeatLocation.cs",
+              "RelativeDocumentMoniker": "Assignment2\\SeatLocation.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\SeatLocation.cs",
+              "RelativeToolTip": "Assignment2\\SeatLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:29:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Ticket.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Ticket.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Ticket.cs",
+              "RelativeToolTip": "Assignment2\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:29:13.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\AbdelRahman Mohemmed\\OOP\\Session02\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:13:24.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
