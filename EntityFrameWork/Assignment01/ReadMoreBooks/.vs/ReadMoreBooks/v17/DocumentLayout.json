@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|solutionrelative:readmorebooks\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Migrations\\20260426060102_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReadMoreBooks\\Migrations\\20260426060102_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment01\\readmorebooks\\readmorebooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|solutionrelative:readmorebooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment01\\readmorebooks\\readmorebooks\\readmorebooks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|solutionrelative:readmorebooks\\readmorebooks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment01\\readmorebooks\\readmorebooks\\migrations\\20260426060102_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1494D1B6-42BF-4D00-A93C-FEAFC02EB1AF}|ReadMoreBooks\\ReadMoreBooks.csproj|solutionrelative:readmorebooks\\migrations\\20260426060102_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Models\\Book.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Models\\Book.cs",
@@ -55,12 +55,15 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T03:18:03.168Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "20260426060102_Initial2.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Migrations\\20260426060102_Initial2.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Migrations\\20260426060102_Initial2.cs",
@@ -68,12 +71,11 @@
               "RelativeToolTip": "ReadMoreBooks\\Migrations\\20260426060102_Initial2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T06:01:02.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T06:01:02.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20260426053656_Initial.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Migrations\\20260426053656_Initial.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Migrations\\20260426053656_Initial.cs",
@@ -81,21 +83,19 @@
               "RelativeToolTip": "ReadMoreBooks\\Migrations\\20260426053656_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T05:36:57.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T05:36:57.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReadMoreBooks",
+              "DocumentIndex": 6,
+              "Title": "ReadMoreBooks.csproj",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\ReadMoreBooks.csproj",
               "RelativeDocumentMoniker": "ReadMoreBooks\\ReadMoreBooks.csproj",
               "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\ReadMoreBooks.csproj",
               "RelativeToolTip": "ReadMoreBooks\\ReadMoreBooks.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-26T05:03:10.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T05:03:10.378Z"
             },
             {
               "$type": "Document",
@@ -105,18 +105,14 @@
               "RelativeDocumentMoniker": "ReadMoreBooks\\Context\\ApplicationDbContext.cs",
               "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "ReadMoreBooks\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T05:04:01.13Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Models\\Category.cs",
@@ -124,12 +120,11 @@
               "RelativeToolTip": "ReadMoreBooks\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T05:02:21.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T05:02:21.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Author.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Models\\Author.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Models\\Author.cs",
@@ -137,8 +132,7 @@
               "RelativeToolTip": "ReadMoreBooks\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T04:59:48.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T04:59:48.629Z"
             },
             {
               "$type": "Bookmark",
@@ -146,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment01\\ReadMoreBooks\\ReadMoreBooks\\Program.cs",
               "RelativeDocumentMoniker": "ReadMoreBooks\\Program.cs",
@@ -154,8 +148,7 @@
               "RelativeToolTip": "ReadMoreBooks\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T03:14:23.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T03:14:23.258Z"
             }
           ]
         }

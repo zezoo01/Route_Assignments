@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\data\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\data\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\assignment04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\assignment04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\enums\\ownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\enums\\ownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\enums\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\enums\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\enums\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\enums\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|e:\\full stack .net\\route\\route_assignments\\entityframework\\assignment04\\assignment04\\migrations\\20260511170848_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B78AB6-6930-4939-BDD5-C015559C9368}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\migrations\\20260511170848_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260511170848_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Migrations\\20260511170848_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Migrations\\20260511170848_InitialCreate.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Migrations\\20260511170848_InitialCreate.cs",
+              "RelativeToolTip": "Assignment04\\Migrations\\20260511170848_InitialCreate.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:08:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment04.csproj",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Assignment04.csproj",
+              "RelativeDocumentMoniker": "Assignment04\\Assignment04.csproj",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Assignment04.csproj",
+              "RelativeToolTip": "Assignment04\\Assignment04.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T16:43:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configurations.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\Configurations.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Data\\Configurations.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\Configurations.cs",
+              "RelativeToolTip": "Assignment04\\Data\\Configurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:03:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Data\\SeedData.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\SeedData.cs",
+              "RelativeToolTip": "Assignment04\\Data\\SeedData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:03:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Assignment04\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:02:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\Transaction.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Transaction.cs",
+              "RelativeToolTip": "Assignment04\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:00:48.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerAccount.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\CustomerAccount.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\CustomerAccount.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\CustomerAccount.cs",
+              "RelativeToolTip": "Assignment04\\Models\\CustomerAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:00:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\Account.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Account.cs",
+              "RelativeToolTip": "Assignment04\\Models\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:00:00.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\Customer.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Customer.cs",
+              "RelativeToolTip": "Assignment04\\Models\\Customer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:59:34.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\Manager.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Manager.cs",
+              "RelativeToolTip": "Assignment04\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:44:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Models\\Branch.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Models\\Branch.cs",
+              "RelativeToolTip": "Assignment04\\Models\\Branch.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:43:56.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Enums\\TransactionType.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "Assignment04\\Enums\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:43:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OwnershipType.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\OwnershipType.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Enums\\OwnershipType.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\OwnershipType.cs",
+              "RelativeToolTip": "Assignment04\\Enums\\OwnershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:43:05.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerType.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\CustomerType.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Enums\\CustomerType.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\CustomerType.cs",
+              "RelativeToolTip": "Assignment04\\Enums\\CustomerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:42:25.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountStatus.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\AccountStatus.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Enums\\AccountStatus.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\AccountStatus.cs",
+              "RelativeToolTip": "Assignment04\\Enums\\AccountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:41:22.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\AccountType.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Enums\\AccountType.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Enums\\AccountType.cs",
+              "RelativeToolTip": "Assignment04\\Enums\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Program.cs",
+              "ToolTip": "E:\\Full Stack .Net\\Route\\Route_Assignments\\EntityFrameWork\\Assignment04\\Assignment04\\Program.cs",
+              "RelativeToolTip": "Assignment04\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:31:54.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
